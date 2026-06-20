@@ -62,11 +62,11 @@ python main.py
 
 ### Weather Search Success
 
-Add image here after uploading screenshot.
+![Weather Success](screenshots/weather-success.png)
 
 ### Invalid City Error
 
-Add image here after uploading screenshot.
+![Weather Error](screenshots/weather-error.png)
 
 ## Future Improvements
 
